@@ -63,6 +63,9 @@ Edit `main.py` and point `DATA_PATH` to any CSV with columns `ds` (datetime) and
 
 > Actual numbers vary per run. SARIMA typically wins on short horizons; XGBoost excels with enough history for lag features; LSTM shines on longer sequences.
 
+## Development Notes
+
+This project was developed with the assistance of AI coding tools, including Claude. The project concept, model design, interpretation of results, testing, documentation, and project structure were reviewed and curated by the author.
 ---
 
 ## License
